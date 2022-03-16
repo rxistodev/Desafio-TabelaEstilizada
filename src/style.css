@@ -1,0 +1,60 @@
+body{
+    
+    font-size: 20px;
+   
+}
+.cabeca{
+    background-color: #BB86FC;
+    color: white;
+  
+}
+
+.corpo{
+    background-color: #424250;
+    color: white; 
+      
+    
+}
+
+td.valor1{
+    padding: 10px;
+}
+
+td.preco{
+    padding: 10px;
+    text-align: center;
+}
+
+td.valor2 {
+    padding: 10px;
+}
+
+th.moda{
+    padding: 10px;
+}
+.cabeca2{
+    background-color: #00C4B4;
+    color: white;
+}
+
+.corpo2{
+    background-color: #424250;
+    color: white;
+    
+}
+
+th.prodvalor{
+    padding: 10px;
+}
+
+td.prodtipo{
+    padding: 10px;
+    
+}
+
+td.a{
+    padding: 10px;
+}
+td.b{
+    padding: 10px;
+}
